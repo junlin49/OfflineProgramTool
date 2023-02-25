@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/OfflineProgramTool">
+        <file>icons/ChooseInverse.png</file>
+        <file>icons/Generate.png</file>
+        <file>icons/Open.png</file>
+        <file>icons/Paste.png</file>
+        <file>icons/Save.png</file>
+        <file>background/robot.png</file>
+        <file>background/robot2.png</file>
+        <file>icons/m_cam.png</file>
+        <file>icons/Related.png</file>
+        <file>icons/Code.png</file>
+        <file>icons/Other.png</file>
+        <file>icons/OpenDAT.png</file>
+        <file>icons/Choose.png</file>
+        <file>icons/ChooseInverseWithSX.png</file>
+        <file>icons/Left.png</file>
+        <file>icons/Right.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/State.png</file>
+        <file>icons/import.png</file>
+        <file>icons/add.png</file>
+        <file>icons/CheckUpdate.png</file>
+    </qresource>
+</RCC>
