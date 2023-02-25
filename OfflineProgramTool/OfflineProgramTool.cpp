@@ -17,6 +17,7 @@ OfflineProgramTool::OfflineProgramTool(QWidget *parent)
 	ui.widget_Content_2->setHidden(true);
 	openFileMode = OpenFileMode::NC;
 
+
 	QLabel* state_msg = new QLabel(this);
 	state_msg->setMinimumSize(state_msg->sizeHint());
 	state_msg->setAlignment(Qt::AlignHCenter);
