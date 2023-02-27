@@ -1,4 +1,17 @@
 # OfflineProgramTool
-机器人离线编程辅助工具，用于快速转换已有NC
+机器人离线编程辅助工具，用于快速转换已有NC；
 
-![](https://raw.githubusercontent.com/junlin49/imageRepo/main/202302251117735.png)
+## 已开发功能
+- 输入已有的工件相对于机器人Base的ZYX欧拉角，输入新的工件相对于机器人Base的ZYX欧拉角，可以将已有NC与DAT文件全部转换到新坐标系下；
+- 提供SRC转换功能，目前只支持特定格式；
+- NC/DAT连续相似检查功能，距离小于0.1弹窗，并用红色背景提示；
+## TODO
+- 开放SRC转换规则，将其适用于所有规则的转换工作；
+- 优化UI界面，目前存在些许小bug；
+- 优化NC/DAT连续检查，解决删除相似行后的顺序不连续问题；
+- 开放所有可配置项
+- 增加除ZYX欧拉角之外的所有规则
+
+第一次写能够实际用于工业机器人的相关软件，不规范地方敬请谅解，积极改过；
+
+![](https://raw.githubusercontent.com/junlin49/imageRepo/main/202302272157934.png)
